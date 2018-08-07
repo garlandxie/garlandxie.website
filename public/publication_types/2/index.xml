@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Garland Xie</title>
-    <link>/garlandxie.netlify.com/publication_types/2/</link>
+    <link>/publication_types/2/</link>
     <description>Recent content in 2 on Garland Xie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jul 2018 00:00:00 -0300</lastBuildDate>
     
-	<atom:link href="/garlandxie.netlify.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Phylogenetic diversity and plant trait composition predict multiple ecosystem functions in green roofs</title>
-      <link>/garlandxie.netlify.com/publication/2018-xie_et_al-stoten/</link>
+      <link>/publication/2018-xie_et_al-stoten/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 -0300</pubDate>
       
-      <guid>/garlandxie.netlify.com/publication/2018-xie_et_al-stoten/</guid>
+      <guid>/publication/2018-xie_et_al-stoten/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
