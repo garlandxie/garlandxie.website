@@ -230,10 +230,10 @@ enableGitInfo = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "Garlandxie@smu.ca"
+#  [[params.social]]
+#    icon = "envelope"
+#    icon_pack = "fa"
+#    link = "Garlandxie@smu.ca"
 
   [[params.social]]
     icon = "twitter"
