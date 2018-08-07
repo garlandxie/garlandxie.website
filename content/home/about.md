@@ -29,7 +29,7 @@ weight = 5
 
 [[education.courses]]
   course = "H.BSc in Biodiveristy, Ecology and Evolution"
-  institution = "Saint Mary's University"
+  institution = "University of Toronto"
   year = 2017
  
 +++
