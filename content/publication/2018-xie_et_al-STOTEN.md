@@ -36,7 +36,7 @@ selected = true
 #   Simply enter your project's filename without extension.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-projects = ["example-external-project"]
+#   projects = ["example-external-project"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -51,11 +51,11 @@ tags = []
 #url_slides = "#"
 #url_video = "#"
 #url_poster = "#"
-url_source = "https://www.sciencedirect.com/science/article/pii/S0048969718304832"
+#url_source = "#"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "View Journal Article", url = "https://www.sciencedirect.com/science/article/pii/S0048969718304832"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
