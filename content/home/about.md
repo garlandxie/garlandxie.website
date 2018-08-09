@@ -40,4 +40,4 @@ I am a MSc Candidate in Applied Science at Saint Mary's Univeristy (Halifax, Can
 
 In addition, I love to integrate the R programming language into my research routine. For example, this very website was built using the fantastic "blogdown" R package with the help of Hugo and Netlify! In the near future, I plan to provide a fully reproducible workflow for future research projects. 
 
-Outside of academia, I dabble in learning calisthenics, finding new hip-hop albums, and cooking vegan recipes. 
+Outside of academia, I dabble in calisthenics, finding new hip-hop albums, and cooking vegan dishes. 
