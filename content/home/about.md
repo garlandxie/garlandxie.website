@@ -28,7 +28,7 @@ weight = 5
 #  year = 2009
 
 [[education.courses]]
-  course = "H.BSc in Biodiveristy, Ecology and Evolution"
+  course = "H.BSc in Ecology and Evolution"
   institution = "University of Toronto"
   year = 2017
  
