@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Science of the Total Environment*"
-publication_short = "In *STOTEN*"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "Plant selection and diversity can influence the provision of key ecosystem services in extensive green roofs. While species richness does predict ecosystem services, functional and phylogenetic community structure may provide a stronger mechanistic link to such services than species richness alone. In this study, we assessed the relationship between community-weighted trait values from four key leaf and canopy functional traits (plant height, leaf area, specific leaf area, dry leaf matter content), functional diversity, and phylogenetic diversity to ten different green roof functions, including ecosystem multifunctionality, in experimental polycultures. Functional traits of dominant plant species were a major driver for indicators of multiple green roof functions, such as substrate nitrate-N, substrate phosphorus, aboveground biomass and ecosystem multifunctionality. In contrast, functional diversity alone increased substrate organic matter. Moreover, both functional/phylogenetic diversity and identity predicted canopy density, substrate cooling. This study highlights the first line of evidence that distinct aspects of phylogenetic and functional diversity play a major role in predicting multiple green roof services. Therefore, we provide further evidence that to maximize green roof functioning, a very careful selection of plant traits and polycultures are needed."
@@ -43,7 +43,7 @@ selected = true
 tags = []
 
 # Links (optional).
-#url_pdf = ""
+#url_pdf = "garlandxie.netlify.com/pdf/Xie_et_al-2018-STOTEN.pdf"
 #url_preprint = ""
 #url_code = "#"
 #url_dataset = "#"
