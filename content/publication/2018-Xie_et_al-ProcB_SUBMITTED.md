@@ -18,7 +18,7 @@ authors = ["J Scott MacIvor", "Garland Xie", "Nicholas Sookhan", "Kelly Carscadd
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of the Royal Society B*"
+publication = "In *Proceedings of the Royal Society B (submission)*"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -55,7 +55,7 @@ tags = []
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "RSPB-2018-1621", url = ""}]
+url_custom = [{name = "RSPB-2018-1621"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
@@ -71,4 +71,3 @@ caption = "My caption :smile:"
 
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
