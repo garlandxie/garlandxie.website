@@ -41,7 +41,9 @@ at the University of Toronto where I am supervised by Scott MacIvor. I'm
 generally curious about how to design urban green spaces from an ecological lens. 
 
 Some of my previous research have involved studying engineered ecosystems (green roofs),
-habitat provisioning (cavity-nesting bees), and urban plant invasions. 
+and the impacts of urbanization on wildlife (cavity-nesting bees). 
+
+My current focus is on urban plant invasions, where I am a collaborator in the Global Urban Invasions Consortium and the NSERC DESIGNLifes 
 
 Outside of academia, I tend to dabble in insane jazz piano arrangements. Check out my instagram for progress updates!
 
