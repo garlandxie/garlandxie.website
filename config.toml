@@ -72,7 +72,7 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "profile.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "Ggarland.xie@mail.utoronto.ca"
+  email = "garland.xie@mail.utoronto.ca"
   address = "SY Building SY 364, 1265 Military Trail, Scarborough, Canada, ON M1C 1A4"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
