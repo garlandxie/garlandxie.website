@@ -55,7 +55,7 @@ enableGitInfo = false
 
 [params]
   # Color theme.
-  #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
+  #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `19s50s`.
   color_theme = "default"
 
   # Font style.
@@ -63,17 +63,17 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Garland Xie"
-  role = "MSc Candidate in Applied Science"
+  name = "Garland Xie M.A.Sc"
+  role = "PhD Student in Ecology and Evolutionary Biology"s
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Saint Mary's University", url = "www.smu.ca"} ]
+  organizations = [ { name = "University of Toronto", url = "https://eeb.utoronto.ca/"} ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "profile.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "Garlandxie@smu.ca"
-  address = "Science Building S320, 923 Robie St, Halifax, Canada "
+  email = "Ggarland.xie@mail.utoronto.ca"
+  address = "SY Building SY 364, 1265 Military Trail, Scarborough, Canada, ON M1C 1A4"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   #skype = "echo123"
