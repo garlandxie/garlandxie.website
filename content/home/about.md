@@ -43,7 +43,7 @@ generally curious about how to design urban green spaces from an ecological lens
 Some of my previous research have involved studying engineered ecosystems (green roofs),
 and the impacts of urbanization on wildlife (cavity-nesting bees). 
 
-My current focus is on urban plant invasions, where I am a collaborator in the Global Urban Invasions Consortium and the NSERC DESIGNLifes 
+My current focus is on urban plant invasions, where I am a collaborator in the Global Urban Invasions Consortium and the NSERC DESIGNLifes prorgram. 
 
 Outside of academia, I tend to dabble in insane jazz piano arrangements. Check out my instagram for progress updates!
 
