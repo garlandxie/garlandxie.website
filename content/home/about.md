@@ -36,8 +36,12 @@ weight = 5
 
 # Biography
 
-I am a MSc Candidate in Applied Science at Saint Mary's Univeristy (Halifax, Canada). Currently, my narrow academic interests are in: (1) applying different ecological concepts (e.g., traits, phylogenetics) to help design multifunctional green roof ecosystems, and (2) understanding how changes in the urban landscape alters wild bee communities. 
+I am a biologist, urban ecologist, and a pianist. Currently, I am a PhD student 
+at the University of Toronto where I am supervised by Scott MacIvor. I'm 
+generally curious about how to design urban green spaces from an ecological lens. 
 
-In addition, I love to integrate the R programming language into my research routine. For example, this very website was built using the fantastic "blogdown" R package with the help of Hugo and Netlify! In the near future, I plan to provide a fully reproducible workflow for future research projects. 
+Some of my previous research have involved studying engineered ecosystems (green roofs),
+habitat provisioning (cavity-nesting bees), and urban plant invasions. 
 
-Outside of academia, I dabble in calisthenics, finding new hip-hop albums, and cooking vegan dishes. 
+Outside of academia, I tend to dabble in insane jazz piano arrangements. Check out my instagram for progress updates!
+
