@@ -17,20 +17,21 @@ weight = 5
   ]
 
 # List your qualifications (such as academic degrees).
-#[[education.courses]]
-#  course = "PhD in Artificial Intelligence"
-#  institution = "Stanford University"
-#  year = 2012
-
-#[[education.courses]]
-#  course = "MEng in Artificial Intelligence"
-#  institution = "Massachusetts Institute of Technology"
-#  year = 2009
 
 [[education.courses]]
   course = "H.BSc in Ecology and Evolution"
-  institution = "University of Toronto"
+  institution = "University of Toronto (Toronto, Canada)"
   year = 2017
+  
+[[education.courses]]
+  course = "M.A.Sc in Applied Science"
+  institution = "Saint Mary's University (Halifax, Canada)"
+  year = 2019
+ 
+[[education.courses]]
+  course = "P.h.D in Ecology and Evolution"
+  institution = "University of Toronto (Toronto, Canada)"
+  year = Ongoing
  
 +++
 
